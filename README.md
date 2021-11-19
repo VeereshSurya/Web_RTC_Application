@@ -6,7 +6,8 @@ The package [simple-peer](https://github.com/feross/simple-peer) is used for web
 The implementation of the signaling server is done with [socket.io](https://socket.io/)
 
 ## Demo
-[Demo on heroku](https://dirvann-webrtc-video.herokuapp.com/)
+
+See the demo [Here](https://simple-web-rtc-application.herokuapp.com/)
 
 ## Running
 
@@ -14,8 +15,6 @@ run `npm install` and then `npm start` in the main directory.
 
 Then open the browser at `localhost:3012`
 
-
 ## Configuration
 
 Configurations can be found in `app.js` and `public/js/main.js`.
-
